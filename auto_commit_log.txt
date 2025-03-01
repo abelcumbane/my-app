@@ -1,1 +1,7 @@
 Sat Mar  1 08:18:47 WCAST 2025 - Gerando arquivo de log de commit
+fatal: cannot lock ref 'HEAD': is at 36c4ff75173d15c27c17fcb6209a581952577226 but expected 4993a618e90a091d416930a935ed8b89c0cb82ae
+itory, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
